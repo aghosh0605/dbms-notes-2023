@@ -6,17 +6,18 @@ DBMS IMPORTANT
 
 ### 4 Marks
 
-1. Advantages of data base management  system
-2. Data abstract
-3. Data independence
-4. Views of data
+1. [Advantages of data base management  system](https://www.geeksforgeeks.org/advantages-of-dbms-over-file-system/)
+2. [Data abstract](https://www.scaler.com/topics/data-abstractions-in-dbms/)
+3. [Data independence](https://www.guru99.com/dbms-data-independence.html)
+4. [Views of data](https://www.guru99.com/dbms-architecture.html)
 
 ### 12M Marks
 
 1. Sql commands, architecture, database users, data independence
 2. Compare file processing vs dbms, abstraction, views of data applications of dbms
 3. Database Languages
-4. Database Architecture
+4. [Database Architecture](https://www.geeksforgeeks.org/structure-of-database-management-system/) - Use PPT
+   ![Database Architecture](./Architecture.png)
 
 ## Unit 2 -
 

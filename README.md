@@ -23,10 +23,10 @@ DBMS IMPORTANT
 
 ### 4M Marks
 
-1. Conversion of ER Diagrams to Tables
-2. Database Design
+1. [Conversion of ER Diagrams to Tables](https://www.gatevidyalay.com/er-diagrams-to-tables/)
+2. [Database Design](https://www.javatpoint.com/database-design)
 3. Design Process
-4. Keys , Attributes and Constraints
+4. Keys , Attributes and Constraints - Use PPT
 
 ### 12M marks
 
@@ -34,6 +34,7 @@ DBMS IMPORTANT
 2. ER Diagram
 3. Query Processing in DBMS
 4. Mapping Cardinality
+5. [Data Models](https://computenepal.com/database-model-relational-hierarchical-network-object-oriented-entity-relational-database-model-and-data-model/)
 
 ## Unit 3 -
 
@@ -69,9 +70,9 @@ DBMS IMPORTANT
 
 ### 4 Marks
 
-1. ACID
-2. Locking and Two phase locking protocol
-3. Transaction control
+1. [ACID](https://www.scaler.com/topics/dbms/acid-properties-in-dbms/)
+2. [Locking and Two phase locking protocol](https://www.scaler.com/topics/two-phase-locking-protocol/)
+3. [Transaction control](https://www.guru99.com/dbms-transaction-management.html)
 
 ### 12 Marks
 
